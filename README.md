@@ -7,3 +7,11 @@ You are a poor dev and want to get into the door of a wealthy club, the wealthy 
 
 ---
 
+Address of [flashloan executer](https://goerli.etherscan.io/address/0x5f8994205edbcf9e6c3c474b5bb29332f1f85cc5#writeContract) ： 0x5F8994205edBCf9e6C3c474B5BB29332f1f85CC5.
+
+### Transection of minting NFT
+![image](https://user-images.githubusercontent.com/124324882/232866516-efa1715d-ff3c-4dbe-8b1d-c94819175e6f.png)
+
+### Transection of transfering the NFT to my address 
+(my address ：0x82bfF8a45511a83b22fF9303a8D19853D6961073)
+![image](https://user-images.githubusercontent.com/124324882/232866835-21e15868-0d9e-4924-bb22-abfbe0326474.png)
